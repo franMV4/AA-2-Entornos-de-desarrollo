@@ -20,5 +20,6 @@ public class Aplicacion {
     ordenador.piezasMarcaIguales();
     cliente.nombresIguales();
     empleado.DniAsociadosTarjeta();
+        System.out.println("Terminado");
     }
 }

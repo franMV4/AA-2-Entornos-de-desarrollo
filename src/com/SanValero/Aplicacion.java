@@ -20,5 +20,27 @@ public class Aplicacion {
     ordenador.piezasMarcaIguales();
     cliente.nombresIguales();
     empleado.DniAsociadosTarjeta();
+        System.out.println("Terminado");
+
+        ordenador.getCausa();
+        ordenador.getIdReparacion();
+        ordenador.getMarca();
+        ordenador.getMarcaPiezas();
+        ordenador.getModelo();
+        ordenador.getReparado();
+        cliente.getIdCliente();
+        cliente.getDireccion();
+        cliente.getNombre();
+        cliente.getNombreTarjeta();
+        cliente.getPagoTarjeta();
+        empleado.getIdEmpleado();
+        empleado.getNombre();
+        empleado.getDni();
+        empleado.getDniTarjetaPago();
+        empleado.getEnPracticas();
+
+
+
+
     }
 }
